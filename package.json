@@ -1,0 +1,25 @@
+{
+  "name": "Assignment-app",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life. Take User quickly. Organize and keep track of all your users.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "User"
+  ],
+  "author": "callicoder",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.2.8"
+  },
+  "devDependencies": {}
+}
